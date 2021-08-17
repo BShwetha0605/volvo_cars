@@ -1,0 +1,9 @@
+.volvo-headers-container{
+    display: block;
+    padding: 1rem;
+    background: #fafafa;
+}
+.volvo-headers-container svg{
+    height: 0.8rem;
+    width: 8rem;
+}
